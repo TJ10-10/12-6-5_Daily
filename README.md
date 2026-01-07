@@ -1,5 +1,12 @@
 ## 12 × 6 × 5
 
+---
+## GitHub
+git add .
+git commit -m ""
+git push 
+
+---
 This system prioritizes execution over motivation.
 This repository manages a daily 5-minute habit system.
 
